@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mukund Jha
+# 👋 Hey, I'm Mukund 
 
 ### I turn ideas into working projects with AI.
 
