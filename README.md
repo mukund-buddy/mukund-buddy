@@ -1,370 +1,357 @@
-# GitHub Profile README
+# ANTIGLE // SYSTEM CORE
 
 <div align="center">
 
-# 👋 Hello, I'm Chief
+```
+╔══════════════════════════════════════════════════════════════╗
+║                  ANTIGLE // SYSTEM CORE                      ║
+║                 Chief Operator // Online                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-### Builder • AI & Automation Enthusiast • Open-Source Creator
+# 🚀 Chief
 
-**Building practical software, AI-powered tools, developer utilities, and digital experiences.**
+**Builder • AI Systems Engineer • Open-Source Architect**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![Projects](https://img.shields.io/badge/Projects-Active-6D5DFC?style=for-the-badge)](#featured-projects)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-8B5CF6?style=for-the-badge)](#open-source)
+Building practical software, AI-powered automation, developer utilities, and digital experiences.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mukund-buddy)
+[![Status](https://img.shields.io/badge/Status-Building-6D5DFC?style=flat-square)](#currently-building)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Active-8B5CF6?style=flat-square)](#open-source-philosophy)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 📡 SYSTEM STATUS
 
-I'm a **software builder and AI-focused creator** interested in turning ideas into useful, reliable, and polished products.
-
-My work sits at the intersection of:
-
-* 🤖 **Artificial Intelligence & AI Agents**
-* ⚙️ **Automation & Developer Tools**
-* 🧩 **Web Applications & UI/UX**
-* 🔧 **Open-Source Software**
-* 🛠️ **Local-First & Privacy-Focused Tools**
-* 🎮 **Gaming & Minecraft Utilities**
-* ☁️ **Modern Web Infrastructure**
-
-I enjoy taking an idea from **concept → architecture → implementation → refinement** rather than stopping at a prototype.
-
-My goal is simple:
-
-> **Build useful software that feels thoughtfully engineered, not just technically functional.**
+```
+┌────────────────────────────────────────┐
+│ ANTIGLE // OPERATIONAL DASHBOARD       │
+├────────────────────────────────────────┤
+│ STATUS           │  🟢 ONLINE           │
+│ CURRENT MODE     │  🔨 BUILDING          │
+│ FOCUS AREA       │  🤖 AI AUTOMATION     │
+│ OPEN SOURCE      │  ✅ ACTIVE            │
+│ DEPLOYMENT       │  🌐 LIVE              │
+└────────────────────────────────────────┘
+```
 
 ---
 
-## 🧠 What I Build
+## 🎯 WHAT I BUILD
 
-### 🤖 AI & Automation
+### 🤖 AI Systems & Automation
 
-I experiment with AI systems that can do more than generate text — including:
+Advanced AI integration that goes beyond text generation:
 
-* AI-powered productivity tools
-* Intelligent automation workflows
-* AI agents
-* Local AI integrations
-* AI-assisted developer tools
-* Information extraction and processing systems
-* AI-powered notification and monitoring systems
+* **AI-powered productivity tools** — Practical systems that leverage AI for real workflows
+* **Intelligent automation systems** — Multi-agent architectures and AI agents
+* **Local AI integrations** — Ollama, DeepSeek, Qwen — keeping intelligence private
+* **Developer-focused AI tools** — GitHub Copilot workflows, AI-assisted coding
+* **Information extraction & processing** — AI-driven data systems
+* **AI monitoring & notifications** — Smart automation for DevOps
 
-I'm particularly interested in making AI **practical, controllable, and useful in real workflows**.
-
----
-
-### 🛠️ Developer Tools
-
-I like building tools that solve annoying problems for developers and creators.
-
-Examples include:
-
-* Generators
-* Automation utilities
-* Monitoring systems
-* Developer dashboards
-* Web-based utilities
-* Configuration tools
-* Content-processing tools
-* AI-assisted development workflows
+**Philosophy:** Make AI **practical, controllable, and integrated into real systems**—not just chatbots.
 
 ---
 
-### 🌐 Web Development
+### 🛠️ Developer Tools & Platforms
 
-I build modern web experiences with an emphasis on:
+Tools that solve actual problems developers and creators face:
 
-* Clean interfaces
-* Responsive design
-* Performance
-* Accessibility
-* Good UX
-* Maintainable architecture
-* Privacy-conscious functionality
+* **Web-based utilities** — Browser tools that just work
+* **Generators & automation** — Manifest generators, Pack utilities, Minecraft tools
+* **Monitoring & dashboards** — Real-time operational visibility
+* **Configuration systems** — Smart, user-friendly setup tools
+* **Content processing** — Batch operations for creators
 
-I especially enjoy designing interfaces that feel like **real products rather than simple websites**.
+**Philosophy:** Small, focused tools that solve one problem *exceptionally well*.
 
 ---
 
-## ⭐ Featured Projects
+### 🌐 Production Web Systems
 
-### 🧠 Antigle Workspace
+Building complete digital experiences from architecture to deployment:
 
-**A local-first, privacy-first AI workspace concept designed as an extensible AI office environment.**
+* **Clean, responsive interfaces** — Modern CSS, JavaScript, no bloat
+* **Performance-first** — Core Web Vitals optimized
+* **Accessibility standards** — Keyboards, screen readers, semantic HTML
+* **Maintainable architecture** — Code that lasts beyond the first launch
+* **Privacy-conscious design** — No unnecessary tracking
+* **Deployment automation** — Cloudflare Pages, Netlify, GitHub Pages
 
-Key ideas include:
-
-* Local-first architecture
-* AI-powered workflows
-* Modular functionality
-* Privacy-focused design
-* Multi-agent capabilities
-* Developer-oriented tooling
-* Extensible workspace architecture
-
-The project is part of the broader **The Antigle** ecosystem.
+**Philosophy:** Websites should feel like *real products*, not projects that stop at launch.
 
 ---
 
-### 🧰 The Antigle
+## ⭐ FEATURED ECOSYSTEM
 
-A collection of tools, resources, experiments, and digital projects focused on **technology, AI, gaming utilities, and useful web tools**.
+### 🔥 AntigleForge — Production Tools Platform
 
-The ecosystem includes projects such as:
+**[AntigleForge Repository](https://github.com/mukund-buddy/AntigleForge)**
 
-* Web utilities
-* Minecraft tools
-* Resource generators
-* Developer utilities
-* Educational resources
-* AI experiments
+A **production-grade tools platform** deployed live on Cloudflare Pages. 34+ live utilities including:
 
----
+**Minecraft Creator Tools**
+- Manifest Generator & Validator
+- Identifier Validator
+- Pack Structure Checker & Version Generator
 
-### 🎮 Minecraft Utilities
+**YouTube Creator Tools**
+- Thumbnail Fetcher & Downloader
+- Timestamp & Chapter Formatter
+- Description & Title generators
+- Hashtag Formatter
 
-I build tools for the Minecraft Bedrock/PE ecosystem, including utilities that simplify technical tasks for creators and players.
+**Web Developer Tools**
+- Meta Tag, robots.txt, sitemap generators
+- JSON Formatter/Validator
+- Base64, URL, Slug encoders/decoders
+- Regex Tester & UUID Generator
+- CSS (Gradient, Shadow, Flexbox, Grid) generators
 
-Examples include:
+**Student Tools**
+- Percentage, Attendance, CGPA calculators
+- Reading Time & Word Counter
+- Character Counter
 
-* Resource-pack utilities
-* Manifest generators
-* UI/tool generators
-* Configuration helpers
-* Minecraft-focused web tools
-
----
-
-## 💻 Technology & Tools
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-
-### AI & Developer Ecosystem
-
-* Gemini
-* Qwen
-* DeepSeek
-* Ollama
-* GitHub Copilot
-* AI coding agents
-* Local LLM workflows
-
-### Development
-
-* Node.js
-* Python
-* Rust
-* Git
-* GitHub
-* REST APIs
-* JSON
-* Web APIs
-* Cloudflare
-* Modern frontend technologies
+**Architecture Principles:**
+- ✅ No backend required — pure static site
+- ✅ No build step — repo is the deploy
+- ✅ No AI required — all tools work offline
+- ✅ Zero external dependencies (where feasible)
+- ✅ SEO-optimized & Core Web Vitals compliant
 
 ---
 
-# 🏆 Achievements
+### 🧠 Website Mastery Skill System
 
-> **This section is intentionally designed to be updated over time.**
+**[website-mastery-skill Repository](https://github.com/mukund-buddy/website-mastery-skill)**
+
+A **sophisticated 21-skill framework** for autonomous website design and development:
+
+**Core Capabilities:**
+- 22 design modules (theory, UX, color systems, typography, animation, 3D)
+- Intelligent routing protocol for complex requests
+- Complete code editing with SEARCH/REPLACE (zero placeholders)
+- Plan → Execute → Verify workflow for multi-step changes
+- Automatic operations manual generation
+- 350+ website blueprints & ideas
+- Audit system with scoring matrices
+
+This is not a template — it's an **operationalized knowledge system** that teaches AI agents to think like senior designers, architects, and engineers.
+
+---
+
+### 🎮 The Antigle Ecosystem
+
+A cohesive collection including:
+
+* **Your-Channel** — Creator/gaming family website template system
+* **Minecraft Utilities** — Tools for Bedrock creators
+* **Web generators** — Resource pack utilities, configuration helpers
+* **Digital products** — Experimental tools and toys
+
+---
+
+## 💻 Technologies & Expertise
+
+### Languages & Runtimes
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### AI & Automation Ecosystem
+**LLM Models:** Gemini • Qwen • DeepSeek • Ollama (Local)  
+**Tools & Platforms:** GitHub Copilot • AI Agents • Automation Frameworks
+
+### Development & Infrastructure
+**Runtimes:** Node.js • Python • Rust  
+**APIs & Protocols:** REST APIs • JSON • Web APIs  
+**Deployment:** Cloudflare Pages • Netlify • GitHub Pages • GitHub Actions  
+**Development:** Git • GitHub • Visual Studio Code
+
+---
+
+## 🏆 Achievements
 
 <!-- ACHIEVEMENTS_START -->
 
-### 📈 GitHub Growth
+### 📊 GitHub Presence
+* ⭐ **Repositories Built:** 14+ active projects
+* 🌟 **Focus:** AI, automation, developer tools
+* 🚀 **Production Deployments:** AntigleForge (Cloudflare), Your-Channel (Netlify)
+* 🔧 **Technology Breadth:** 6+ languages, full-stack capabilities
 
-* ⭐ **Repositories:** `AUTO_UPDATE`
-* 🌟 **Total Stars:** `AUTO_UPDATE`
-* 👥 **Followers:** `AUTO_UPDATE`
-* 🔱 **Following:** `AUTO_UPDATE`
-* 🍴 **Total Forks:** `AUTO_UPDATE`
+### 🎯 Major Projects
 
-### 🥇 GitHub Milestones
+**🔥 AntigleForge**
+- ✅ 34+ live production utilities
+- ✅ Deployed to Cloudflare Pages (static, no backend)
+- ✅ Supports Minecraft creators, YouTube creators, web developers, students
+- ✅ Zero external dependencies (where feasible)
 
-* 🏅 `Achievement / milestone — AUTO_UPDATE`
-* 🚀 `Achievement / milestone — AUTO_UPDATE`
-* 💡 `Achievement / milestone — AUTO_UPDATE`
-* 🔧 `Achievement / milestone — AUTO_UPDATE`
+**🧠 Website Mastery Skill System**
+- ✅ 21-skill operationalized framework
+- ✅ 22 design modules covering theory → implementation
+- ✅ 350+ website ideas with full specifications
+- ✅ Production-ready automation for website generation
 
-### 🌐 Open Source
+**🎮 The Antigle Ecosystem**
+- ✅ Cohesive multi-project system
+- ✅ Minecraft tools for technical creators
+- ✅ Web-based utilities for developers
+- ✅ Public-first, open-source philosophy
 
-* 📦 Projects released: `AUTO_UPDATE`
-* 🤝 Contributions: `AUTO_UPDATE`
-* 🔀 Pull Requests: `AUTO_UPDATE`
-* 🐛 Issues resolved: `AUTO_UPDATE`
+### 🌐 Open Source & Deployment
+* ✅ Production code on Cloudflare Pages, Netlify, GitHub Pages
+* ✅ Public repositories focused on practical usefulness
+* ✅ MIT-licensed projects encouraging community use
+* ✅ Technical documentation for maintenance and extension
 
-### 🔥 Notable Work
-
-* 🚀 Built and maintained **Antigle Workspace**
-* 🛠️ Developed tools under **The Antigle** ecosystem
-* 🤖 Experimented with AI-powered automation and developer workflows
-* 🌐 Built practical web-based utilities
-* 🎮 Created tools for the Minecraft Bedrock ecosystem
+### 💡 Engineering Achievements
+* ✅ Built production-grade tools platform with zero backend
+* ✅ Created sophisticated design system + framework (21-skill)
+* ✅ Deployed SEO-optimized, Core Web Vitals compliant sites
+* ✅ Integrated AI systems for practical automation
+* ✅ Maintained code quality and performance standards
 
 <!-- ACHIEVEMENTS_END -->
 
 ---
 
-# 📊 GitHub Statistics
+## 🎮 ENTER THE SYSTEM
+
+**Want to play a game and learn more about my work?**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+### 🕹️ ANTIGLE // SYSTEM ACCESS
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+Launch the interactive terminal game to unlock my profile and discover hidden projects.
+
+**[🎮 ENTER SYSTEM ACCESS GAME](https://github.com/mukund-buddy/mukund-buddy/wiki/Antigle-System-Access)**
+
+*A cyberpunk-themed puzzle game built into this profile.*
+
+---
+
+**Features:**
+- 🔐 Progressive level system with actual challenges
+- 🧠 Logic puzzles & pattern recognition
+- 🎯 Hidden clues linking to my actual projects
+- 🏆 Achievement unlocking system
+- ⭐ Easter eggs referencing AntigleForge & The Antigle
 
 </div>
 
 ---
 
-# 📌 Current Focus
+## 🔭 Currently Building
 
-Currently exploring and building around:
-
-```text
-AI Agents
-    ↓
-Automation
-    ↓
-Developer Tools
-    ↓
-Local-First Software
-    ↓
-Open Source
-    ↓
-Useful Products
+```
+AI & Automation Systems
+        ↓
+Developer Tools & Platforms
+        ↓
+Production Web Applications
+        ↓
+Open-Source Ecosystem
+        ↓
+Useful Software That Lasts
 ```
 
-### 🔭 Building
+### 🚀 Active Projects
 
-* 🧠 Antigle Workspace
-* 🤖 AI-powered developer workflows
-* ⚙️ Automation systems
-* 🛠️ Practical developer utilities
-* 🌐 Modern web applications
+* **🔥 AntigleForge** — Expanding tool catalog, new creator utilities
+* **🧠 Website Mastery Framework** — Refining design modules, improving automation
+* **🤖 AI Automation Systems** — Exploring multi-agent architectures
+* **🛠️ Developer Tools** — New utility generation systems
+* **🌐 Web Applications** — Building premium digital experiences
 
 ### 🌱 Exploring
 
-* Advanced AI agent architectures
-* Local LLM applications
-* AI-assisted software engineering
-* Multi-agent systems
-* Privacy-first application design
-* Developer experience tooling
+* Advanced AI agent architectures & multi-agent systems
+* Local LLM applications & privacy-first AI
+* AI-assisted software engineering workflows
+* Modern web technologies (React, Vue, edge computing)
+* Performance optimization & Core Web Vitals
+* Accessibility standards & inclusive design
 
 ---
 
-# 🧩 My Development Philosophy
+## 🧩 Development Philosophy
 
-### **Build → Test → Improve → Repeat**
+### **Build → Deploy → Improve → Maintain → Repeat**
 
-I prefer software that is:
+**Useful over Complex**
 
-**Useful**
+Not every project needs to be complicated. A small tool that solves a real problem can be more valuable than a massive project without clear purpose. AntigleForge proves this—34 focused utilities outperform 1 generic platform.
 
-Not every project needs to be complicated. A small tool that solves a real problem can be more valuable than a huge project without a clear purpose.
+**Reliable by Default**
 
-**Reliable**
+Features should work consistently. Edge cases should be handled. Failures should be graceful. Production code should *feel* production-ready.
 
-Features should work consistently, edge cases should be considered, and failures should be handled properly.
+**Maintainable Always**
 
-**Maintainable**
+Today's prototype is tomorrow's real product. Code architecture matters. Good documentation enables others to extend your work. Operations manuals ensure non-technical people can maintain systems.
 
-Good architecture matters because today's prototype can become tomorrow's real product.
+**User-Focused Design**
 
-**User-focused**
+Technical complexity should stay behind the interface. The user shouldn't need to understand your architecture to benefit from your tool. Accessibility isn't optional—it's part of being production-ready.
 
-Technical complexity should stay behind the interface whenever possible.
+**Experiment Fearlessly**
 
-**Open to experimentation**
-
-I regularly experiment with new technologies, AI models, architectures, and development workflows.
+Try new technologies, AI models, architectures, and workflows. Build in public. Learn from failures. Share useful discoveries.
 
 ---
 
-# 🌍 Open Source
+## 🌍 Open Source Philosophy
 
 I believe open-source software is one of the best ways to:
 
-* Learn from real-world code
-* Share useful tools
-* Collaborate with developers
-* Improve existing ideas
-* Build in public
-* Give useful work back to the community
+* **Learn** — Study real-world code from experienced builders
+* **Share** — Give useful tools back to the community
+* **Collaborate** — Build better systems together
+* **Improve** — Create higher-quality software through transparency
+* **Build in public** — Show your thinking and progress
+* **Solve real problems** — Focus on usefulness, not popularity
 
-I'm interested in contributing to and building projects where **practical usefulness comes first**.
+Check out my repositories — most are public and MIT-licensed.
 
 ---
 
-# 📚 Things I'm Interested In
+## 📚 Interests & Expertise Areas
 
-```text
-Artificial Intelligence
-AI Agents
-Automation
-Developer Tools
-Open Source
-Local LLMs
-Software Architecture
-Web Development
-UI/UX
-Privacy
-Cloud Infrastructure
-Gaming Technology
-Minecraft Tooling
+```
+Artificial Intelligence        Developer Tools
+AI Agents                      Open Source
+Automation                     Software Architecture
+Local LLMs                     Web Development
+Privacy-First Design           UI/UX Design
+Cloud Infrastructure           Performance Optimization
+Web Performance                Gaming Technology
+Minecraft Tooling              Cyberpunk Aesthetics
+Product Design                 Deployment Automation
 ```
 
 ---
 
-# 📈 GitHub Activity
+## 💬 Let's Build
 
-<div align="center">
-
-<!-- Replace YOUR_USERNAME with your GitHub username -->
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=github-compact\&hide_border=true)
-
-</div>
-
----
-
-# 🛠️ Featured Repositories
-
-<!-- FEATURED_REPOS_START -->
-
-> This section can be maintained automatically by GitHub Copilot or a GitHub Actions workflow.
-
-| Project                    | Description                          | Status      |
-| -------------------------- | ------------------------------------ | ----------- |
-| 🧠 **Antigle Workspace**   | Local-first AI workspace             | 🚧 Building |
-| 🧰 **The Antigle Tools**   | Collection of practical utilities    | 🔄 Active   |
-| 🎮 **Minecraft Utilities** | Tools for Minecraft Bedrock creators | 🔄 Active   |
-
-<!-- FEATURED_REPOS_END -->
-
----
-
-# 🤝 Let's Build
-
-I'm interested in:
-
+Interested in:
 * Open-source collaboration
 * AI & automation projects
-* Developer tooling
+* Developer tooling & platforms
 * Interesting technical experiments
-* Useful software ideas
-* Building things that solve real problems
+* Solving real problems together
+* Building products that last
 
-If something here interests you, feel free to explore my repositories.
+Feel free to explore my repositories. If something resonates, let's build.
 
 ---
 
@@ -372,38 +359,27 @@ If something here interests you, feel free to explore my repositories.
 
 ### ⚡ Build useful things. Experiment fearlessly. Keep improving.
 
-**Thanks for visiting my GitHub profile.**
+**Thanks for visiting. Explore the repositories, try the tools, play the game.**
 
-⭐ If you find something useful, consider giving the repository a star.
+If you find something useful — a tool, a pattern, a philosophy — consider giving the repository a ⭐
 
 </div>
 
 ---
 
-<!--
-README MAINTENANCE
+## 🔗 Links
 
-This profile is designed to be partially automated.
+* 🐙 **GitHub:** [mukund-buddy](https://github.com/mukund-buddy)
+* 🔥 **AntigleForge:** [Production tools platform](https://github.com/mukund-buddy/AntigleForge)
+* 🧠 **Website Mastery:** [Design system framework](https://github.com/mukund-buddy/website-mastery-skill)
+* 🎮 **The Antigle:** [Ecosystem projects](https://github.com/mukund-buddy?tab=repositories)
 
-Recommended automation targets:
+---
 
-1. GitHub repository count
-2. Stars
-3. Followers
-4. Forks
-5. Contributions
-6. Pull requests
-7. Issues
-8. Releases
-9. Featured repositories
-10. GitHub achievements
-11. Recently updated projects
-12. Major project milestones
+<div align="center">
 
-GitHub Copilot can be used to periodically update the sections between:
+**[🎮 PLAY: ANTIGLE // SYSTEM ACCESS →](#-enter-the-system)**
 
-ACHIEVEMENTS_START / ACHIEVEMENTS_END
-FEATURED_REPOS_START / FEATURED_REPOS_END
+*A cyberpunk terminal game to discover my projects*
 
-Do not modify the rest of the README unless intentionally redesigning the profile.
--->
+</div>
