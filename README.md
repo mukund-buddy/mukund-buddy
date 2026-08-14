@@ -4,7 +4,7 @@
 
 I enjoy building useful websites, tools, experiments, and automation systems.
 
-I'm not a traditional programmer who sits and writes everything from scratch. I use **AI-assisted development** to turn my ideas into real software, understand how it works, improve it, and keep shipping.
+I'm not a traditional programmer who sits and writes everything from scratch. I use **AI-assisted development** to turn my ideas into real software, understand how it works, improve it, and keep sh[...]
 
 That means my profile is less about "how many programming languages I know" and more about **what I can imagine, build, test, and improve**.
 
@@ -26,6 +26,7 @@ Some of the things I work on:
 - 🎮 Minecraft-related tools and creator utilities
 - 🧪 Experimental projects and ideas
 - 🔧 Improving existing projects instead of abandoning them after version one
+- 🖼️ Smart Thumbnail AI Editor — An AI-powered YouTube thumbnail editor (see below)
 
 ---
 
@@ -71,6 +72,14 @@ Instead of treating website creation as "generate some code", the system focuses
 Basically, I'm interested in one question:
 
 > **How do we make AI better at building websites, instead of just making AI generate more code?**
+
+---
+
+# 🖼️ Smart Thumbnail AI Editor
+
+**GitHub repository:** [github.com/mukund-buddy/Smart-Thumbnail-AI-Editor](https://github.com/mukund-buddy/Smart-Thumbnail-AI-Editor)
+
+An AI-powered YouTube thumbnail editor that detects and removes elements (players, text, objects, mobs, logos, UI) or replaces them with uploaded images using natural-language commands powered by Google Gemini. Features include automatic element detection, one-click removal, area selection, replacement images, 16:9 crop & resize, removed-elements layer export, auto-enhance, session persistence, and helpful error handling.
 
 ---
 
@@ -216,6 +225,7 @@ A tool can technically work and still feel terrible to use.
 |---|---|
 | 🔥 **AntigleForge** | [Open the live tools](https://antigleforge.pages.dev) |
 | 🧠 **Website Mastery** | [Explore the project](https://github.com/mukund-buddy/website-mastery-skill) |
+| 🖼️ **Smart Thumbnail AI Editor** | [Open the project](https://github.com/mukund-buddy/Smart-Thumbnail-AI-Editor) |
 | 🐙 **GitHub** | [View all repositories](https://github.com/mukund-buddy?tab=repositories) |
 
 ---
