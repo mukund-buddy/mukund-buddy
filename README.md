@@ -4,7 +4,7 @@
 
 I enjoy building useful websites, tools, experiments, and automation systems.
 
-I'm not a traditional programmer who sits and writes everything from scratch. I use **AI-assisted development** to turn my ideas into real software, understand how it works, improve it, and keep sh[...]
+I'm not a traditional programmer who sits and writes everything from scratch. I use **AI-assisted development** to turn my ideas into real software, understand how it works, improve it, and keep sh[...] 
 
 That means my profile is less about "how many programming languages I know" and more about **what I can imagine, build, test, and improve**.
 
@@ -54,6 +54,23 @@ The idea behind it is simple:
 
 ---
 
+# 🧰 AntigleKit
+
+### A privacy-first collection of browser tools you can run locally or use online.
+
+**Live demo:** https://mukund-buddy.github.io/AntigleKit/#/
+
+**GitHub repository:** https://github.com/mukund-buddy/AntigleKit
+
+AntigleKit is a sibling project to AntigleForge — it provides a curated set of client-side utilities (text processing, developer helpers, PDF and document tools, image utilities, math tools, Minecraft generators, and more). Everything runs in the browser with no uploads, no accounts, and full offline capability if served locally.
+
+Quick links:
+
+- Open the live site: https://mukund-buddy.github.io/AntigleKit/#/
+- Open the repository: https://github.com/mukund-buddy/AntigleKit
+
+---
+
 # 🧠 Website Mastery
 
 **[Website Mastery Skill](https://github.com/mukund-buddy/website-mastery-skill)**
@@ -79,7 +96,7 @@ Basically, I'm interested in one question:
 
 **GitHub repository:** [github.com/mukund-buddy/Smart-Thumbnail-AI-Editor](https://github.com/mukund-buddy/Smart-Thumbnail-AI-Editor)
 
-An AI-powered YouTube thumbnail editor that detects and removes elements (players, text, objects, mobs, logos, UI) or replaces them with uploaded images using natural-language commands powered by Google Gemini. Features include automatic element detection, one-click removal, area selection, replacement images, 16:9 crop & resize, removed-elements layer export, auto-enhance, session persistence, and helpful error handling.
+An AI-powered YouTube thumbnail editor that detects and removes elements (players, text, objects, mobs, logos, UI) or replaces them with uploaded images using natural-language commands powered by [...]
 
 ---
 
@@ -224,6 +241,7 @@ A tool can technically work and still feel terrible to use.
 | | |
 |---|---|
 | 🔥 **AntigleForge** | [Open the live tools](https://antigleforge.pages.dev) |
+| 🧰 **AntigleKit** | [Open the live tools](https://mukund-buddy.github.io/AntigleKit/#/) |
 | 🧠 **Website Mastery** | [Explore the project](https://github.com/mukund-buddy/website-mastery-skill) |
 | 🖼️ **Smart Thumbnail AI Editor** | [Open the project](https://github.com/mukund-buddy/Smart-Thumbnail-AI-Editor) |
 | 🐙 **GitHub** | [View all repositories](https://github.com/mukund-buddy?tab=repositories) |
