@@ -1,11 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wColor&color=0:0a0c10,50:0d1117,100:111a14&height=150&section=header&text=Mukund%20%7C%20mukund-buddy&fontColor=3ddc97&fontSize=42&fontFamily=Fira+Code&desc=Founder%20@%20The%20Antigle%20%C2%B7%20browser%20tools%20%C2%B7%20privacy-first%20utilities&descSize=16&descAlign=center" alt="Mukund — mukund-buddy" />
+# 👨‍💻 Mukund · [@mukund-buddy](https://github.com/mukund-buddy)
+### *Founder @ The Antigle · Browser Tools · Privacy-First Utilities*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=3DDC97&center=true&vCenter=true&width=600&lines=I+direct+AI.+I+test+by+hand.+I+ship+working+products." alt="Typing: I direct AI. I test by hand. I ship working products." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=3DDC97&center=true&vCenter=true&width=620&lines=%24+direct-ai+--mode%3Dstrict+%7C+test-by-hand;%24+ship-working-products+--no-bloat" alt="Terminal Command Typing" />
+
+<br/>
+
+```text
+   __  __       _                  _ 
+  |  \/  |_   _| | ___   _ _ __   __| |
+  | |\/| | | | | |/ / | | | '_ \ / _` |
+  | |  | | |_| |   <| |_| | | | | (_| |
+  |_|  |_|\__,_|_|\_\\__,_|_| |_|\__,_|
+  ───────────────────────────────────────
+  ⚡ "Direct AI. Test by hand. Ship products that just work."
+```
 
 </div>
-
 ---
 
 ```text
