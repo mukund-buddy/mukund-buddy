@@ -23,7 +23,6 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Founder-%40%20The%20Antigle-0a0c10?style=flat-square&labelColor=3ddc97&color=0a0c10" alt="Founder @ The Antigle" />
-<img src="https://img.shields.io/badge/build-with%20AI-assisted%20dev-1a1a1f?style=flat-square&labelColor=ffb000&color=1a1a1f" alt="AI-assisted dev" />
 <img src="https://img.shields.io/badge/focus-privacy--first%20tools-0e1512?style=flat-square&labelColor=5cc46b&color=0e1512" alt="Privacy-first tools" />
 
 <br/>
