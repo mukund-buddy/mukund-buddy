@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wColor&color=0:0a0c10,50:0d1117,100:111a14&height=150&section=header&text=Mukund%20%mukund-buddy&fontColor=3ddc97&fontSize=42&fontFamily=Fira+Code&desc=Founder%20@%20The%20Antigle%20%C2%B7%20browser%20tools%20%C2%B7%20privacy-first%20utilities&descSize=16&descAlign=center" alt="Mukund — mukund-buddy" />
+<img src="https://capsule-render.vercel.app/api?type=wColor&color=0:0a0c10,50:0d1117,100:111a14&height=150&section=header&text=Mukund%20%7C%20mukund-buddy&fontColor=3ddc97&fontSize=42&fontFamily=Fira+Code&desc=Founder%20@%20The%20Antigle%20%C2%B7%20browser%20tools%20%C2%B7%20privacy-first%20utilities&descSize=16&descAlign=center" alt="Mukund — mukund-buddy" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=3DDC97&center=true&vCenter=true&width=600&lines=I+direct+AI.+I+test+by+hand.+I+ship+working+products." alt="Typing: I direct AI. I test by hand. I ship working products." />
 
@@ -15,7 +15,7 @@
  ██║╚██╔╝██║   Shell:  AI-assisted, verified by hand
  ██║ ╚═╝ ██║   Build:  Vanilla HTML/CSS/JS — no build step
  ╚═╝     ╚═╝   Repos:  30 public · 11 toolkit tools live
-                Focus:  browser tools · privacy-first utilities
+               Focus:  browser tools · privacy-first utilities
 ```
 
 <div align="center">
@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/Founder-%40%20The%20Antigle-0a0c10?style=flat-square&labelColor=3ddc97&color=0a0c10" alt="Founder @ The Antigle" />
 <img src="https://img.shields.io/badge/build-with%20AI-assisted%20dev-1a1a1f?style=flat-square&labelColor=ffb000&color=1a1a1f" alt="AI-assisted dev" />
 <img src="https://img.shields.io/badge/focus-privacy--first%20tools-0e1512?style=flat-square&labelColor=5cc46b&color=0e1512" alt="Privacy-first tools" />
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,vscode" alt="HTML, CSS, JS, TS, Python, Git, GitHub, VS Code" />
 
@@ -44,7 +46,11 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=mukund-buddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-buddy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=mukund-buddy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=mukund-buddy&color=brightgreen" alt="Profile views" />
 
@@ -142,7 +148,5 @@ But give me an interesting idea and enough time with the right tools,
 Thanks for stopping by — ⭐ star something if it's useful, or 🧠 steal an idea and make it better.
 
 📫 Reach me: **[jmukund9625@gmail.com](mailto:jmukund9625@gmail.com)**
-
-<img src="https://komarev.com/ghpvc/?username=mukund-buddy&color=brightgreen" alt="Profile views" />
 
 </div>
