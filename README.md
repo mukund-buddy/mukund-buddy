@@ -1,153 +1,17 @@
-<div align="center">
-
-# 👨‍💻 Mukund · [@mukund-buddy](https://github.com/mukund-buddy)
-### *Founder @ The Antigle · Browser Tools · Privacy-First Utilities*
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=3DDC97&center=true&vCenter=true&width=620&lines=%24+direct-ai+--mode%3Dstrict+%7C+test-by-hand;%24+ship-working-products+--no-bloat" alt="Terminal Command Typing" />
-
-<br/>
-
-</div>
----
-
-```text
- ███╗   ███╗   mukund@antigle
- ████╗ ████║   ─────────────────────────────────────
- ██╔████╔██║   OS:     Human · Windows · ships from a laptop
- ██║╚██╔╝██║   Shell:  AI-assisted, verified by hand
- ██║ ╚═╝ ██║   Build:  Vanilla HTML/CSS/JS — no build step
- ╚═╝     ╚═╝   Repos:  30 public · 11 toolkit tools live
-               Focus:  browser tools · privacy-first utilities
-```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Founder-%40%20The%20Antigle-0a0c10?style=flat-square&labelColor=3ddc97&color=0a0c10" alt="Founder @ The Antigle" />
-<img src="https://img.shields.io/badge/focus-privacy--first%20tools-0e1512?style=flat-square&labelColor=5cc46b&color=0e1512" alt="Privacy-first tools" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,vscode" alt="HTML, CSS, JS, TS, Python, Git, GitHub, VS Code" />
-
-</div>
-
----
-
-> 💭 **No fake skills here.** My profile is less about "how many languages I know"
-> and more about **what I can imagine, build, test, and improve.**
-> I don't pretend to hand-write every line — I **direct AI**, then do the part machines can't:
-> **test it, judge it, and refine it** until it actually feels good to use.
-
----
-
-## 📡 Live telemetry
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mukund-buddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-buddy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=mukund-buddy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mukund-buddy&color=brightgreen" alt="Profile views" />
-
-</div>
-
----
-
-## 🔥 `ls ./flagship` — live and open right now
-
-| | |
-|---|---|
-| 🔥 **[AntigleForge](https://antigleforge.pages.dev)** | Toolbox of browser tools — Minecraft, YouTube, web dev, student utilities. Open a tool, get the job done, move on. |
-| 🧰 **[AntigleKit](https://mukund-buddy.github.io/AntigleKit/#/)** | Privacy-first client-side utilities: text, PDF, image, math, Minecraft generators. No uploads, no accounts. |
-| ⛏️ **[Adventigle](https://mukund-buddy.github.io/Adventigle/index.html)** | Minecraft PE & Bedrock hub — custom UI packs, texture packs and one-click fixes, every install step shown in a short video. Free, no sign-up. |
-| 🎮 **[Not Gaming Playz](https://not-gaming-playz.pages.dev)** | Content & downloads hub for the Not Gaming Playz creator brand. |
-| ⚡ **[MC Bypasser](https://mukund-buddy.github.io/mc-bypasser/)** | Skips Linkvertise, LootLink, Work.ink and 10+ ad-walls straight to the direct link. MIT, no sign-ups. |
-| 📁 **[Command Hub](https://mukund-buddy.github.io/Command-Hub/)** | A directory of 175+ AI, developer and productivity tools across 10 categories — vanilla HTML/CSS/JS. |
-| 🥦 **[PureScan](https://mukund-buddy.github.io/PureScan/)** | AI food-safety analyzer — an instant, readable verdict on a product instead of decoding the label yourself. |
-| 📺 **[Your-Channel](https://mukund-buddy.github.io/Your-Channel/)** | A JSON-driven website template for creators — change 3 data files, the whole site updates. |
-
----
-
-## 🧰 `./toolkit` — 11 small tools that just work
-
-Every one is vanilla HTML/CSS/JS, opens from a double-click, keeps your data in your browser, and ships with an honest README.
-
-| | | | |
-|---|---|---|---|
-| 🧪 **[json-forge](https://github.com/mukund-buddy/json-forge)** | Format, validate, minify & tree-view JSON | 🔷 **[json-to-types](https://github.com/mukund-buddy/json-to-types)** | JSON → TypeScript / Zod / Python / Go |
-| 🎨 **[contrast-lab](https://github.com/mukund-buddy/contrast-lab)** | Every colour pair ranked by real WCAG contrast | 🚀 **[github-launchpad](https://github.com/mukund-buddy/github-launchpad)** | Repo description, topics & social preview in one form |
-| 🔍 **[site-review-lab](https://github.com/mukund-buddy/site-review-lab)** | 45-point website QA checklist with live grade | 📁 **[share-preview](https://github.com/mukund-buddy/share-preview)** | OG card designer + 1200×630 PNG export |
-| ⛏️ **[packforge](https://github.com/mukund-buddy/packforge)** | Bedrock manifest validator — 11 rules, plain-English fixes | 🧱 **[cmd-builder](https://github.com/mukund-buddy/cmd-builder)** | Bedrock command builder with live validation |
-| 🛍️ **[storekit](https://github.com/mukund-buddy/storekit)** | Zero-fee storefront template — edit one JSON, ship a store | 💬 **[askmint](https://github.com/mukund-buddy/askmint)** | Ask-box widget for static sites, no backend |
-| 🎯 **[vibe-coders-playbook](https://github.com/mukund-buddy/vibe-coders-playbook)** | How I actually direct AI and ship with it | | |
-
-🐙 **[All 30 repositories →](https://github.com/mukund-buddy?tab=repositories)**
-
----
-
-## 🧠 `cat ./beyond-the-browser.md`
-
-### 🤖 [AgentLoop Research Pipeline](https://github.com/mukund-buddy/AgentLoop-Research-Pipeline)
-A multi-agent research pipeline on Node.js and direct Anthropic API calls — researcher, summariser and evaluator agents loop until the output passes a quality check. No frameworks, no hidden abstractions.
-
-### 🖼️ [Smart Thumbnail AI Editor](https://github.com/mukund-buddy/Smart-Thumbnail-AI-Editor)
-AI-powered YouTube thumbnail editor — detect & replace elements using natural-language commands.
-
-### 🧠 [Website Mastery Skill](https://github.com/mukund-buddy/website-mastery-skill)
-22-module system that makes AI genuinely better at building websites — UI/UX, color, typography, motion, conversion.
-
-### 📊 [Govt Job Monitor](https://github.com/mukund-buddy/govt-job-monitor)
-Automated government job tracking, so nobody has to refresh ten websites at 6 AM.
-
----
-
-## 🛠️ `./how-i-build`
-
-```text
-Idea  →  Build with AI  →  Test by hand  →  Refine  →  Ship  →  Keep improving
-```
-
-1. **Start with the idea** — what real problem does this solve?
-2. **Build with AI** — research, generate, explain, iterate.
-3. **Test everything by hand** — every page, every button, every edge case.
-4. **Refine** — bad UX, broken flows, messy HTML/JSON: all fair game to fix.
-5. **Ship & improve** — v1 is a beginning, not an ending.
-
----
-
-## 💪 `whoami --skills`
-
-- 🤖 **AI-assisted development** — my core skill: directing AI, then verifying its output like a QA lead
-- 🔍 **Manual testing & QA** — I actually *use* what I build before anyone else does
-- 🎨 **UX refinement** — small changes, big difference
-- 📝 **HTML & JSON editing** — comfortable reading and patching structure and data directly
-- 💡 **Product thinking** — useful beats impressive, every time
-- 🎮 **Creator & Minecraft tools** — building for the communities I'm part of
-
----
-
-## 🎯 `echo $FOCUS`
-
-`AI-assisted development` · `automation` · `privacy-first tools` · `better web UX` · `shipping complete products`
-
----
-
-## ⚡ `exit 0`
-
-I may not know every framework or every programming language — and I won't pretend I do.
-But give me an interesting idea and enough time with the right tools,
-**and I'll turn it into something real that works.**
-
-<div align="center">
-
-Thanks for stopping by — ⭐ star something if it's useful, or 🧠 steal an idea and make it better.
-
-📫 Reach me: **[jmukund9625@gmail.com](mailto:jmukund9625@gmail.com)**
-
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0c10,50:121621,100:1b2432&height=170&section=header&text=MUKUND%20//%20mukund-buddy&fontColor=3ddc97&fontSize=38&fontFamily=Fira+Code&desc=Product-Focused%20Web%20Builder%20%C2%B7%20AI%20Director%20%26%20Manual%20QA%20Lead%20%C2%B7%20Minecraft%20Bedrock%20Toolsmith&descSize=15&descAlign=center" alt="Mukund — mukund-buddy" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FF9966&center=true&vCenter=true&width=720&lines=%2Fexecute+as+%40a%5Brole%3Dhiring_manager%5D+run+function+mukund%3Ashowcase;I+direct+AI.+I+test+like+a+suspicious+user.+I+ship+working+tools.;20+Verified+Repositories+%C2%B7+16+Live+Browser+Apps+%C2%B7+Zero+Backend+Bloat" alt="Typing SVG" /><p>
+<a href="https://mukund-buddy.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-mukund--buddy.github.io-0a0c10?style=for-the-badge&labelColor=3ddc97&color=0a0c10" alt="Portfolio" /></a>
+<a href="https://not-gaming-playz.pages.dev"><img src="https://img.shields.io/badge/FLAGSHIP-not--gaming--playz.pages.dev-0a0c10?style=for-the-badge&labelColor=ff9966&color=0a0c10" alt="Not Gaming Playz" /></a>
+<a href="mailto:jmukund9625@gmail.com"><img src="https://img.shields.io/badge/CONTACT-jmukund9625%40gmail.com-0a0c10?style=for-the-badge&labelColor=8b5cf6&color=0a0c10" alt="Email" /></a>
+</p><img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,git,github,cloudflare,vscode" alt="Tech Stack Icons" /></div>⚡ Command Block OS — Identity & Engineering Philosophy╔══════════════════════════════════════════════════════════════════════════════╗
+║  COMMAND BLOCK CONSOLE // mukund@antigle                                     ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  > Mode        : Creative Direction + Hardcore Manual QA                     ║
+║  > Role        : AI-Assisted Software Builder (Director + QA Lead + Refiner) ║
+║  > Architecture: 100% Client-Side Web Apps · Zero-Backend · Local-First CLI  ║
+║  > Inventory   : 20 Public Repositories · 16 Live Web Apps · 4 Local Tools   ║
+║  > Redstone    : ███████████████ 15/15 Signal Strength (Zero Server Downtime)║
+╚══════════════════════════════════════════════════════════════════════════════╝
+Honest Engineering Manifesto: My work is not about memorizing boilerplate syntax—it is about what I can architect, direct with AI, verify by hand, and ship as a finished product. When AI generates code, my real job begins: testing every edge case like a suspicious first-time user, auditing accessibility and performance, and refining the UX until it works reliably on both desktop and low-end mobile devices.🏆 Complete Project Inventory (Ranked by Visual & Functional Impact)Every project below is a verified, real repository on github.com/mukund-buddy, ordered from the most visually impressive full-scale platforms at the top to specialized developer utilities and local automation pipelines.🟧 Slot 1: [IMPULSE_BLOCKS] — Flagship Hubs & Interactive ApplicationsRankProject & RepositoryLive DeploymentArchitecture & Impact#01Not-Gaming-Playznot-gaming-playz.pages.devFlagship gaming & creator portal featuring a custom High-End / Low-End Dual UI Mode engine, 3D .mcstructure shape generator, .mcpack UI builder, and PWA offline support.#02AdventigleLive Web AppGumroad-inspired Minecraft PE & Bedrock storefront delivering custom UI packs, texture packs, and one-click fixes with short video-guided installs.#03lanshareLive Web AppZero-data, cross-platform local network (LAN / Mobile Hotspot) file and folder transfer studio with QR pairing and symmetrical Send/Receive queues.#04smart-thumbnail-designerLive Web AppBrowser-based YouTube & creator thumbnail design studio engineered for high-CTR visual composition, typography layering, and instant canvas export.#05mukund-buddymukund-buddy.github.ioData-driven Redstone Command Center portfolio and profile configuration hub powered by a single-file JSON/JS update engine.🟩 Slot 2: [CHAIN_BLOCKS] — Developer, QA & Accessibility ToolkitRankProject & RepositoryLive DeploymentArchitecture & Impact#06site-review-labLive Web App45-point interactive website QA & audit workbench across 5 pillars (Visual/UX, Function, Content, Performance, Trust) with severity weights and JSON report export.#07share-previewLive Web AppOpen Graph social card studio rendering live previews for X/Twitter, WhatsApp, Slack, and Facebook with client-side 1200×630 PNG canvas export.#08contrast-labLive Web AppFull-matrix WCAG 2.x contrast auditor that extracts all colors from pasted CSS, ranks failing pairs worst-first, and computes one-click AA fixes.#09json-to-typesLive Web AppZero-upload code generator that parses a single JSON payload into TypeScript interfaces, Python TypedDict classes, Zod v3 schemas, and Go structs.#10json-forgeLive Web AppCRT-styled JSON formatter, validator, minifier, and collapsible tree viewer with exact line and column syntax-error caret pointers.#11github-launchpadLive Web AppOpen-source repo packaging utility generating character-counted descriptions (≤350 chars), rule-validated GitHub topics, and README headers in one form.🟥 Slot 3: [REDSTONE_BLOCKS] — Minecraft Bedrock Engineering UtilitiesRankProject & RepositoryLive DeploymentArchitecture & Impact#12packforgeLive Web AppClient-side Minecraft Bedrock manifest.json validator checking 11 structural rules (UUIDs, module types, version triples, dependencies) with plain-English fixes.#13cmd-builderLive Web AppInteractive Minecraft Bedrock command generator (/give, /tp, /effect, /tag, /clear) with real-time selector, coordinate, and item ID validation.🟪 Slot 4: [REPEAT_BLOCKS] — AI Systems, Playbooks & Local AutomationRankProject & RepositoryDeployment / ModeArchitecture & Impact#14website-mastery-skillLive Web App22-module frontend engineering and design system that trains AI coding agents in typography math, 8pt token scales, motion physics, and conversion funnels.#15vibe-coders-playbookLive Web AppInteractive editorial handbook codifying 10 battle-tested rules, a daily QA loop, and structured prompt templates for AI-assisted software delivery.#16AgentLoop-Research-PipelineLocal / CLI RepoMulti-agent research pipeline on Node.js and direct LLM APIs where Researcher, Summarizer, and Evaluator agents loop until quality checks pass.#17ollama-chatLocal / CLI RepoPrivacy-first local AI chat interface designed to run and test open-weight LLMs via Ollama on local hardware with zero API fees or cloud data leaks.#18android-tv-debloat-guideLocal / ADB ToolkitBackup-first ADB package disabler, safe system debloat checklist, and lightweight launcher guide to make low-RAM Android TV / Google TV sets fast.#19govt-job-monitorLocal / Python RepoAutomated SSC & RRB government job notification tracker (GovScout AI) where verified official notices strictly outrank AI summaries.🟨 Slot 5: [CRAFTING_BLOCKS] — Zero-Backend Creator Templates & WidgetsRankProject & RepositoryLive DeploymentArchitecture & Impact#20Your-ChannelLive Web AppReusable JSON-driven website template for content creators—edit 3 JSON data files (videos, resources, updates) and the entire site updates automatically.#21askmintLive Web AppEmbeddable zero-backend "Ask Me Anything" box for static sites with localStorage draft persistence, category chips, and pre-filled mail/link routing.🛡️ Architectural FAQ: Why Zero-Backend & Client-Side First?Why do I build web utilities without a traditional backend server?Security by Architecture in the AI Era: Even large, well-funded enterprises regularly suffer backend database breaches, API key leaks, and server-side exploits. By architecting tools to run 100% client-side in the visitor's browser (FileReader, Canvas, localStorage, zero remote database), user inputs never touch a server I control—making server-side data leaks structurally impossible.Zero-Funding Reliability & Permanent Uptime: Building as an independent student and creator without external funding means avoiding recurring cloud bills and fragile free-tier databases that sleep or expire. Static edge deployments on GitHub Pages and Cloudflare Pages guarantee instant load times, zero cold-starts, and tools that stay online indefinitely at ₹0/$0 operating cost.How do I ensure quality when building with AI?
+Every project goes through the Redstone Verification Loop documented in site-review-lab and vibe-coders-playbook:
+Define Acceptance Criteria → Slice 1 Feature per Prompt → Suspicious-User Manual QA → Fix Edge Cases → Ship📡 Live GitHub Telemetry<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=mukund-buddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0c10&title_color=3ddc97&icon_color=ff9966&text_color=e2e8f0" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-buddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0c10&title_color=3ddc97&text_color=e2e8f0" alt="Top Languages" /><img src="https://streak-stats.demolab.com?user=mukund-buddy&theme=tokyonight&hide_border=true&background=0a0c10&ring=ff9966&fire=3ddc97&currStreakLabel=3ddc97" alt="GitHub Streak" /></div>📬 Spawn a CollaborationPortfolio Command Center: mukund-buddy.github.ioFlagship Creator Hub: not-gaming-playz.pages.devDirect Email: jmukund9625@gmail.com
