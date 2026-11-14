@@ -1,118 +1,128 @@
+<div align="center">
+
+<img src="assets/og.png" alt="Mukund's portfolio preview" width="720">
+
 # Mukund — builder, creator, and persistent learner
+
+**Student · Creator · Builder — Delhi, India**
+
+I make practical things for the web: local-first browser tools, Minecraft Bedrock utilities, open-source experiments, and YouTube content that teaches people how to actually fix things. Most of it is vanilla HTML, CSS, and JavaScript — no frameworks, no build steps, no sign-ups.
+
+[![YouTube — Not Gaming Playz](https://img.shields.io/badge/YouTube-%40notgamingplayz-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@notgamingplayz)
+[![YouTube — Adventigle](https://img.shields.io/badge/YouTube-%40adventigle-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@adventigle)
+[![GitHub](https://img.shields.io/badge/GitHub-%40mukund--buddy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mukund-buddy)
+[![Email](https://img.shields.io/badge/Email-jmukund9625%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jmukund9625@gmail.com)
+
+<br>
+
+> Useful beats impressive. Every time.
+
+</div>
+
+## About me
+
+- Delhi-based student building tools that run entirely in the browser.
+- Main channel **Not Gaming Playz** — Minecraft Bedrock tutorials, JSON UI, add-ons, and fixes.
+- **Adventigle** is my second YouTube channel, with its own community hub and video vault.
+- Local-first and privacy-first by default: no accounts, no uploads, no servers where possible.
+- Learning in public and shipping constantly — vanilla HTML, CSS, and JavaScript, with Python where it helps.
+
+## Featured projects
+
+### AntigleForge
+
+**26-tool workshop for Minecraft creators.** NBT editors, manifest validation, portal math, structure generators — vanilla JS, fully client-side.
+
+**Live:** <https://antigleforge.pages.dev/>
+
+### AntigleKit
+
+**56 privacy-first browser utilities** for Minecraft, YouTube, and everyday work. No accounts, no uploads, no servers.
+
+**Live:** <https://mukund-buddy.github.io/AntigleKit/#/>
+
+### Not Gaming Playz
+
+**Minecraft creator hub** for Bedrock tutorials, JSON UI packs, add-ons, and fixes.
+
+**Live:** <https://not-gaming-playz.pages.dev/>
+
+### Adventigle Hub
+
+**Community hub for Minecraft PE and Bedrock players** — video vault, guides, verified downloads.
+
+**Live:** <https://mukund-buddy.github.io/Adventigle/index.html>
+
+### Antigle ToolNest
+
+**A growing collection of small, useful digital tools** — get in, do the thing, get out.
+
+**Live:** <https://antigle-toolnest.pages.dev/>
+
+### LANShare
+
+**Offline file transfer over local Wi-Fi** with QR pairing. Python, no internet, no cloud.
+
+**Source:** <https://github.com/mukund-buddy/lanshare>
+
+### Antigle Workspace
+
+Experimental local-first workspace — in the lab, no public link yet.
+
+## More tools and experiments
+
+| Project | What it is |
+| --- | --- |
+| [smart-thumbnail-designer](https://github.com/mukund-buddy/smart-thumbnail-designer) | AI thumbnail editor with Gemini-powered element replace. |
+| [json-forge](https://github.com/mukund-buddy/json-forge) | Format, validate, minify, and explore JSON. |
+| [json-to-types](https://github.com/mukund-buddy/json-to-types) | JSON to TypeScript, Zod, Python, and Go. |
+| [contrast-lab](https://github.com/mukund-buddy/contrast-lab) | Every color pair ranked by real WCAG contrast. |
+| [share-preview](https://github.com/mukund-buddy/share-preview) | OG card designer with 1200×630 PNG export. |
+| [packforge](https://github.com/mukund-buddy/packforge) | Bedrock manifest validator with plain-English fixes. |
+| [askmint](https://github.com/mukund-buddy/askmint) | Ask-me-anything box for static sites. Zero backend. |
+| [ollama-chat](https://github.com/mukund-buddy/ollama-chat) | Portable local chat UI for Ollama. |
+| [site-review-lab](https://github.com/mukund-buddy/site-review-lab) | 45-point website QA checklist with a live grade. |
+| [vibe-coders-playbook](https://github.com/mukund-buddy/vibe-coders-playbook) | How to ship with AI without shipping garbage. |
+
+## What I build with
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-local%20AI-000000?style=flat-square">
   <img alt="No build step" src="https://img.shields.io/badge/Build%20step-none-2EA44F?style=flat-square">
-  <img alt="Made by mukund-buddy" src="https://img.shields.io/badge/Made%20by-mukund--buddy-181717?style=flat-square&logo=github&logoColor=white">
 </p>
 
-**The personal portfolio of Mukund — a student, creator, and builder from Delhi.**
+Minecraft Bedrock JSON UI · add-ons · resource packs · local-first tooling · AI-assisted development.
 
-I make practical things for the web, mostly with vanilla HTML, CSS, and JavaScript. My main YouTube channel is **Not Gaming Playz**; **Adventigle** is my second channel and community hub. This repository contains the source for my portfolio website.
+## GitHub stats
 
-![Mukund portfolio preview](assets/og.png)
-
-> Useful beats impressive. Every time.
-
-## What's inside
-
-- **Editorial single-page portfolio** with a dark "Ember & Ink" visual system.
-- **Work section** covering AntigleKit, Not Gaming Playz, Adventigle, LANShare, Antigle ToolNest, and Antigle Workspace.
-- **Creator section** with Not Gaming Playz (main channel), Adventigle (second channel), and the Adventigle community hub.
-- **Aurum Studio design study** — clearly labelled as fictional.
-- **About section** with a portrait photo in the identity card.
-- **Responsive layout**, reduced-motion support, keyboard-friendly navigation, skip link, and accessible focus states.
-- **SEO and social metadata**, including JSON-LD and a 1200 × 630 Open Graph image.
-- **No framework, no build step, no runtime dependencies.**
-
-## Tech stack
-
-| Layer | What is used |
-| --- | --- |
-| Markup | Semantic HTML5 |
-| Styling | Modern CSS: custom properties, Grid, Flexbox, `clamp()`, transitions |
-| Behaviour | Vanilla JavaScript (ES6+) |
-| Type | Fraunces, Inter, and JetBrains Mono via Google Fonts |
-| Tooling | None required |
-
-## Project structure
-
-```text
-mukund-buddy/
-├── index.html
-├── 404.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── main.js
-├── assets/
-│   ├── favicon.svg
-│   ├── me.png
-│   └── og.png
-└── README.md
-```
-
-## Run locally
-
-No installation or build step is required.
-
-```bash
-# Python 3
-python -m http.server 4173
-```
-
-Then open <http://127.0.0.1:4173/>.
-
-You can also open `index.html` directly in a browser. A local server is recommended so relative paths and browser security behave like a normal static deployment.
-
-## Deploy
-
-This is a static site. Publish the repository root with GitHub Pages, Cloudflare Pages, Netlify, or any static host.
-
-Before deploying to a custom domain:
-
-1. Replace the relative `assets/og.png` social image path with an absolute URL.
-2. Add the canonical URL and `og:url` once the final domain is known.
-3. Confirm that `assets/me.png` is the portrait you want to publish.
-
-## Channels
-
-| Channel | Role | Link |
-| --- | --- | --- |
-| Not Gaming Playz | Main YouTube channel | <https://www.youtube.com/@notgamingplayz> |
-| Adventigle | Second YouTube channel | <https://www.youtube.com/@adventigle> |
-| Adventigle Hub | Community hub and video vault | <https://mukund-buddy.github.io/Adventigle/index.html> |
-
-## Featured projects
-
-| Project | What it is |
-| --- | --- |
-| [AntigleKit](https://mukund-buddy.github.io/AntigleKit/#/) | A focused toolkit for Minecraft Bedrock creators. |
-| [Not Gaming Playz](https://not-gaming-playz.pages.dev/) | Minecraft creator hub for Bedrock tutorials, JSON UI, add-ons, and fixes. |
-| [Adventigle](https://mukund-buddy.github.io/Adventigle/index.html) | Community hub for Minecraft PE and Bedrock players. |
-| [LANShare](https://github.com/mukund-buddy/lanshare) | Offline file transfer over local Wi-Fi with QR pairing. |
-| [Antigle ToolNest](https://antigle-toolnest.pages.dev/) | A growing collection of small, useful static tools. |
-| [Aurum Studio](https://github.com/mukund-buddy/aurum-studio) | A fictional design-studio landing page and front-end craft study. |
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mukund-buddy&show_icons=true&theme=github_dark&hide_border=true" alt="Mukund's GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-buddy&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="165">
+</p>
 
 ## Aurum Studio notice
 
-**Aurum Studio is fictional.** It is an independent design study created for inspiration and front-end practice. The studio, clients, projects, testimonials, prices, email addresses, and contact details shown in that project are placeholders. It is not a real company, and nothing in it should be treated as a real commercial claim or a real phone/contact listing.
+> **Aurum Studio is fictional.** It is an independent design study created for inspiration and front-end practice. The studio, clients, projects, testimonials, prices, email addresses, and contact details shown in that project are placeholders. It is not a real company, and nothing in it should be treated as a real commercial claim or a real phone/contact listing.
+>
+> Source: <https://github.com/mukund-buddy/aurum-studio>
 
-The Aurum Studio source lives at <https://github.com/mukund-buddy/aurum-studio>.
+## This repository
 
-## Privacy
-
-The deployed site uses `assets/me.png`, the original portrait photo. A copy of the source image is kept outside this repository in `mukund-portfolio-source/me-original.jpg`.
+This repo also holds the source of my personal portfolio website — the single-page site previewed at the top. It is plain HTML, CSS, and JavaScript with no build step. The About section uses `assets/me.png`, the original portrait photo.
 
 ## Contact
 
-- **GitHub:** [@mukund-buddy](https://github.com/mukund-buddy)
-- **YouTube (main):** [Not Gaming Playz](https://www.youtube.com/@notgamingplayz)
-- **YouTube (second):** [Adventigle](https://www.youtube.com/@adventigle)
-- **Email:** [jmukund9625@gmail.com](mailto:jmukund9625@gmail.com)
+<div align="center">
+
+**[YouTube — Not Gaming Playz](https://www.youtube.com/@notgamingplayz)** · **[YouTube — Adventigle](https://www.youtube.com/@adventigle)** · **[GitHub — @mukund-buddy](https://github.com/mukund-buddy)** · **[Email](mailto:jmukund9625@gmail.com)**
+
+</div>
 
 ## License
 
-Personal project. The site content, writing, and branding belong to Mukund. Third-party fonts and assets remain under their respective licenses. The separate Aurum Studio project is released under the MIT License.
+Personal projects. The content, writing, and branding belong to Mukund unless a project states otherwise. Third-party fonts and assets remain under their respective licenses. Aurum Studio is released separately under the MIT License.
