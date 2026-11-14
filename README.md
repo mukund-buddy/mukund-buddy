@@ -98,12 +98,6 @@ Experimental local-first workspace — in the lab, no public link yet.
 
 Minecraft Bedrock JSON UI · add-ons · resource packs · local-first tooling · AI-assisted development.
 
-## GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mukund-buddy&show_icons=true&theme=github_dark&hide_border=true" alt="Mukund's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund-buddy&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="165">
-</p>
 
 ## Aurum Studio notice
 
