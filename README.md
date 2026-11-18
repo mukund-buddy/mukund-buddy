@@ -4,14 +4,13 @@
 
 # Mukund — builder, creator, and persistent learner
 
-**Student · Creator · Builder — Delhi, India**
+**Student · Creator · Builder**
 
 I make practical things for the web: local-first browser tools, Minecraft Bedrock utilities, open-source experiments, and YouTube content that teaches people how to actually fix things. Most of it is vanilla HTML, CSS, and JavaScript — no frameworks, no build steps, no sign-ups.
 
 [![YouTube — Not Gaming Playz](https://img.shields.io/badge/YouTube-%40notgamingplayz-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@notgamingplayz)
 [![YouTube — Adventigle](https://img.shields.io/badge/YouTube-%40adventigle-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@adventigle)
 [![GitHub](https://img.shields.io/badge/GitHub-%40mukund--buddy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mukund-buddy)
-[![Email](https://img.shields.io/badge/Email-jmukund9625%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jmukund9625@gmail.com)
 
 <br>
 
@@ -21,7 +20,7 @@ I make practical things for the web: local-first browser tools, Minecraft Bedroc
 
 ## About me
 
-- Delhi-based student building tools that run entirely in the browser.
+- Student building tools that run entirely in the browser.
 - Main channel **Not Gaming Playz** — Minecraft Bedrock tutorials, JSON UI, add-ons, and fixes.
 - **Adventigle** is my second YouTube channel, with its own community hub and video vault.
 - Local-first and privacy-first by default: no accounts, no uploads, no servers where possible.
@@ -107,13 +106,13 @@ Minecraft Bedrock JSON UI · add-ons · resource packs · local-first tooling ·
 
 ## This repository
 
-This repo also holds the source of my personal portfolio website — the single-page site previewed at the top. It is plain HTML, CSS, and JavaScript with no build step. The About section uses `assets/me.png`, the original portrait photo.
+This repo also holds the source of my personal portfolio website — the single-page site previewed at the top. It is plain HTML, CSS, and JavaScript with no build step. The About section uses a typographic monogram instead of a portrait.
 
 ## Contact
 
 <div align="center">
 
-**[YouTube — Not Gaming Playz](https://www.youtube.com/@notgamingplayz)** · **[YouTube — Adventigle](https://www.youtube.com/@adventigle)** · **[GitHub — @mukund-buddy](https://github.com/mukund-buddy)** · **[Email](mailto:jmukund9625@gmail.com)**
+**[YouTube — Not Gaming Playz](https://www.youtube.com/@notgamingplayz)** · **[YouTube — Adventigle](https://www.youtube.com/@adventigle)** · **[GitHub — @mukund-buddy](https://github.com/mukund-buddy)**
 
 </div>
 

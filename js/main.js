@@ -282,7 +282,7 @@
     }
   }
 
-  const timeElement = $("#delhi-time");
+  const timeElement = $("#local-time");
   if (timeElement) {
     let timeFormatter = null;
     try {
@@ -369,7 +369,7 @@
 
   if (window.console && console.log) {
     console.log(
-      "%cMUKUND.%c\nSmall tools. Big curiosity. Useful things.\nBuilt with vanilla HTML, CSS & JS — no trackers, no cookies.\nSay hello: jmukund9625@gmail.com",
+      "%cMUKUND.%c\nSmall tools. Big curiosity. Useful things.\nBuilt with vanilla HTML, CSS & JS — no trackers, no cookies.\nSay hello: https://www.youtube.com/@notgamingplayz",
       "font-family:Georgia,serif;font-size:28px;color:#ff7a2f;",
       "font-family:monospace;font-size:12px;color:#a8a49b;line-height:1.7;"
     );
